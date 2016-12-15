@@ -1,2 +1,5 @@
 What is Github? 
 GitHub is a project hosting service online. A project made there is called repository. Anyone signed in that web-site can create his own repository and adding another users to their project for collaboration. In Open Source projects, GitHub allows users to take other open source projects as a new repository and work on it on their own. This is a way of helping each others and developing better projects.
+
+Creating a new branch
+We click on our file called "exam_file".Once open, we click on "Branch:master" and we create a new branch by writing some name "secondary", in this case.
